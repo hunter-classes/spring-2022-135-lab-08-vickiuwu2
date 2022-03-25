@@ -9,7 +9,7 @@
 const std::array<std::string, 2> names_of_images = {"image1.pgm", "image2.pgm"};
 const std::array<std::string, 6> task = {"A", "B", "C", "D", "E", "F"}; 
 
-typedef void (*tasks) (std::string input, std::string result); 
+typedef void (*tasks) (std::string imagefile, std::string result); 
 
 int main() 
 { 

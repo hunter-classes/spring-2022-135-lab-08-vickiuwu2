@@ -1,10 +1,10 @@
 * Spring 2022 - Lab 08
 
-* Last name:
+* Last name: Wu
 
-* First name:
+* First name: Vicki
 
-* GitHub username:
+* GitHub username: vickiuwu2
 
 * Notes:
 
